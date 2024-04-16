@@ -1,0 +1,5 @@
+{
+    "header": "Ngx-TranslateKit Library",
+    "title": "Ngx-TranslateKit Library for developers",
+    "paragraph": "Ngx-TranslateKit is a comprehensive library for Angular applications that facilitates internationalization by allowing developers to easily translate their apps into multiple languages. It provides a powerful translation service, along with a pipe and directive, to manage translations and dynamically load language files from the server. The library supports Angular’s modular architecture, enabling developers to import it in the root module with TranslateModule.forRoot() for application-wide usage or in feature modules using TranslateModule.forChild(). With ngx-translatekit, developers can enhance their applications’ global reach by providing a localized user experience"
+}
