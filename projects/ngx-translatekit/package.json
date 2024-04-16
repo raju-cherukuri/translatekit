@@ -1,0 +1,18 @@
+{
+  "name": "ngx-translatekit",
+  "version": "0.0.1",
+  "description": "This is a translator that does translation.",
+  "author": {"name": "Bangar Raju Cherukuri", "email": "cbraju@hotmail.com", "url": "https://github.com/raju-cherukuri"},
+  "repository": {"type": "git", "url": "https://github.com/raju-cherukuri/ngx-translatekit"},
+  "homepage": "https://github.com/raju-cherukuri/ngx-translatekit",
+  "keywords": ["language translation", "angular", "angularv16"],
+  "license":"MIT",
+  "peerDependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
